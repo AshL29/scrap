@@ -1,0 +1,16 @@
+# Go binaries
+/bin/
+
+# Build artifacts
+*.exe
+*.exe~
+*.out
+
+# Test binary, build with `go test -c`.
+*.test
+
+# Coverage data
+*.out
+
+# Vendor directory
+/vendor/
